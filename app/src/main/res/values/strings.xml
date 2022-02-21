@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThucHanhLab1</string>
+    <string name="grow_your">GROW "\n" YOUR BUSINESS</string>
+    <string name="grow_your2">We will help you to grow your business using "\n" online server</string>
+    <string name="forget_password_">FORGET "\n" PASSWORD</string>
+    <string name="provide_your_account_s_email_for_which_you_want_to_reset_your_">Provide your account’s email for which you "\n" want to reset your password</string>
+    <string name="enter_ontime_password_sent_on_">Enter ontime password sent on "\n" ++849092605798</string>
+</resources>
